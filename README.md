@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shakes002.
 - 👀 I’m interested in solving real-world problems to impact millions & billions of lives, positively!
-- 🌱 I’m currently learning Flutter & Firebase.
+- 🌱 I’m currently learning Next.js & Refine.
 - 💞️ I’m looking to collaborate on real-world problem solving projects.
 - 📫 How to reach me - shakesheartcore@gmail.com
 
